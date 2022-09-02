@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mikkenz/Biblioteca.git"
+    "url": "git+https://github.com/Mikkenz/Bibli.git"
   },
   "author": "Icaro",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Mikkenz/Biblioteca/issues"
+    "url": "https://github.com/Mikkenz/Bibli/issues"
   },
-  "homepage": "https://github.com/Mikkenz/Biblioteca#readme"
+  "homepage": "https://github.com/Mikkenz/Bibli#readme"
 }
